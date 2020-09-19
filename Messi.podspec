@@ -13,6 +13,5 @@ Pod::Spec.new do |s|
   s.source_files = 'Messi/**/*.swift'
 
   s.dependency 'WCDB.swift'
-  s.dependency 'Swifty'
 
 end
